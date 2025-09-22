@@ -1,2 +1,1 @@
-# Prepcourse-22
-Este es un propositorio de prueba modulo 2
+este pyecto es una prueba de clonacion
